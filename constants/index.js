@@ -34,11 +34,11 @@ const navLinks = [
 
 const services = [
   {
-    title: "Software Developer",
+    title: "Performance Media Buyer",
     icon: <FullStackIcon />,
   },
   {
-    title: "Frontend Developer",
+    title: "Digital Marketing Expert",
     icon: <FrontendIcon />,
   },
   // {
@@ -46,11 +46,11 @@ const services = [
   //   icon: <BackendIcon />,
   // },
   {
-    title: "Problem Solving",
+    title: "Specialist in ROI Optimization",
     icon: <ProblemSolvingIcon />,
   },
   {
-    title: "Freelancer",
+    title: "Paid Media Strategy",
     icon: <FreelancerIcon />,
   },
   // {
